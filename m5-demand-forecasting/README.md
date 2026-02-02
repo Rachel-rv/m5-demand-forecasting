@@ -1,4 +1,4 @@
-# M5 Demand Forecasting – End-to-End Time Series Project
+# M5 Demand Forecasting â€“ End-to-End Time Series Project
 
 ## Overview
 This project builds an end-to-end demand forecasting system using the M5 Walmart sales dataset. 
